@@ -1,0 +1,34 @@
+body{
+
+    background-color: lightpink;
+    color: darkslategray;
+
+
+}
+
+.heading{
+
+    width: 80%;
+    font-size: 22px;
+
+}
+
+.objects{
+
+    color: mediumvioletred;
+
+
+}
+
+#camera{
+
+    border: 2px solid whitesmoke;
+    width: 350px;
+    height: 300px;
+
+}
+
+#object_name , #object_accuracy{
+
+    color: midnightblue;
+}
